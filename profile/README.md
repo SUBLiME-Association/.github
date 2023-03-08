@@ -1,6 +1,10 @@
 <div align="center">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NikXpro&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=K4VK4Z&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=COSSART-FR&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&layout=compact&show_icons=true" />
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NikXpro&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=NikXpro&theme=react&layout=compact&show_icons=true" />
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=K4VK4Z&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=K4VK4Z&theme=react&layout=compact&show_icons=true" />
+        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=COSSART-FR&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width="45%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=COSSART-FR&theme=react&layout=compact&show_icons=true" />
 </div>
