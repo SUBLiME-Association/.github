@@ -11,8 +11,8 @@
 
 ____
         
-<div align="center">
-        <a href="https://discord.gg/hYCR2YKgxB">
+<div align="center"> 
+        <a href="https://discord.gg/KyJsPwDm4c">
                 <img src="https://img.shields.io/discord/915210131212472360?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
         </a>
 </div>
